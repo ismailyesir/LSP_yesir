@@ -1,4 +1,4 @@
-package org.howard.edu.lsp.assignment6.integerset;
+package org.howard.edu.lsp.assignment6;
 
 public class IntegerSetException extends Exception {
 
